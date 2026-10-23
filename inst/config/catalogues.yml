@@ -1,0 +1,66 @@
+catalogues:
+  - id: data_gov_scot
+    type: ckan
+    name: Data.gov.scot
+    base_url: https://data.gov.scot
+    api_base_url: https://api.data.gov.scot
+    enabled: true
+    record_type: dataset
+
+  - id: nhs_open_data_scot
+    type: ckan
+    name: Scottish Health and Social Care Open Data
+    base_url: https://www.opendata.nhs.scot
+    enabled: true
+    record_type: dataset
+
+  - id: open_data_scotland
+    type: ckan
+    name: Open Data Scotland
+    base_url: https://opendata.scot
+    enabled: true
+    record_type: dataset
+
+  - id: find_data_gov_scot_dataset
+    type: find
+    name: Find.Data.Gov.Scot (datasets)
+    base_url: https://find.data.gov.scot
+    enabled: true
+    record_type: dataset
+
+  - id: find_data_gov_scot_organisation
+    type: find
+    name: Find.Data.Gov.Scot (organisations)
+    base_url: https://find.data.gov.scot
+    enabled: true
+    record_type: organisation
+
+  - id: research_data_scotland
+    type: rds
+    name: Research Data Scotland Metadata Catalogue
+    base_url: https://www.researchdata.scot/metadata-catalogue
+    enabled: true
+    record_type: dataset
+
+  - id: spatial_data_gov_scot
+    type: geonetwork
+    name: SpatialData.gov.scot
+    base_url: https://spatialdata.gov.scot
+    enabled: true
+    record_type: dataset
+    api_path: /geonetwork/srv/api/search
+
+  - id: naturescot_spatial_hub
+    type: arcgis
+    name: NatureScot Spatial Hub
+    base_url: https://opendata.nature.scot
+    enabled: true
+    record_type: dataset
+
+  - id: statistics_gov_scot
+    type: sparql
+    name: Statistics.gov.scot
+    base_url: https://statistics.gov.scot/sparql
+    enabled: true
+    record_type: dataset
+

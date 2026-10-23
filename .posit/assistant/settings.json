@@ -1,0 +1,26 @@
+{
+  "permission": {
+    "bash": {
+      "git log *": "allow",
+      "git branch *": "allow",
+      "git remote *": "allow",
+      "air *": "allow"
+    },
+    "executeCode": {
+      "*": "allow"
+    },
+    "edit": {
+      "*.R": "allow",
+      "*/.Rbuildignore": "allow",
+      "*/NAMESPACE": "allow",
+      "*/DESCRIPTION": "allow",
+      "*.yml": "allow"
+    },
+    "positronCommand": {
+      "positron.packages.listInstalled": "allow",
+      "positron.interpreters.list": "allow",
+      "positronPackages.getPackages": "allow",
+      "positronPackages.installPackage": "allow"
+    }
+  }
+}

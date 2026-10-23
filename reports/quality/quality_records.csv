@@ -1,0 +1,397 @@
+"record_type","dataset_id","dataset_name","source_catalogue","quality_score"
+"dataset","49dc2d88-1cb0-4420-a5ea-d1bbada62fb2","Viral Respiratory Diseases (Including Influenza and COVID-19) Data in Scotland","Scottish Health and Social Care Open Data",68
+"dataset","84393984-14e9-4b0d-a797-b288db64d088","Prescriptions in the Community","Scottish Health and Social Care Open Data",83
+"dataset","086c153d-0fdc-4f7c-ad51-1e856c094a0e","Flu & COVID vaccinations","Scottish Health and Social Care Open Data",77
+"dataset","07082906-47ed-4f93-a0d4-97267bcdf5c5","Weekly Deaths","Data.gov.scot",75
+"dataset","dab00b4c-72f9-4f2a-b3b4-5ee52fd66393","Land and Buildings Transaction Tax Revenues","Data.gov.scot",75
+"dataset","7cb7c6e4-936d-4b4a-b7d5-03c4e654fc08","Land and Buildings Transaction Tax Notifiable Transactions","Data.gov.scot",75
+"dataset","0d57311a-db66-4eaa-bd6d-cc622b6cbdfa","Weekly A&E Activity and Waiting Times","Scottish Health and Social Care Open Data",80
+"dataset","a739339b-812f-471b-9630-0b731070e98a","Palliative and End of Life Care","Scottish Health and Social Care Open Data",83
+"dataset","cf8a4e75-9ec5-4b26-8333-c2a87bbe03db","Scottish Landfill Tax","Data.gov.scot",75
+"dataset","d6c625ae-31f0-45e1-a858-5de75a9b5615","Scottish Aggregates Tax","Data.gov.scot",69
+"dataset","a30fde16-1226-49b3-b13d-eb90e39c2058","Dispenser Location Contact Details","Scottish Health and Social Care Open Data",83
+"dataset","9f942fdb-e59e-44f5-b534-d6e17229cc7b","Geography Codes and Labels","Scottish Health and Social Care Open Data",83
+"dataset","e8d82157-1870-4458-9dc0-0e17e113e6c1","Quarterly Epidemiological Data on Healthcare Associated Infections","Scottish Health and Social Care Open Data",83
+"dataset","4d682149-6a79-40ce-b8e3-9f0bb0e676ac","Primary Care Out Of Hours","Scottish Health and Social Care Open Data",68
+"dataset","997acaa5-afe0-49d9-b333-dcf84584603d","Monthly A&E Activity and Waiting Times","Scottish Health and Social Care Open Data",80
+"dataset","52591cba-fd71-48b2-bac3-e71ac108dfee","Delayed Discharges in NHSScotland","Scottish Health and Social Care Open Data",83
+"dataset","479848ef-41f8-44c5-bfb5-666e0df8f574","Cancelled Planned Operations","Scottish Health and Social Care Open Data",74
+"dataset","727e4a59-4380-4fe7-9cb7-0c08f842b400","Delayed Discharges - Monthly Census","Data.gov.scot",75
+"dataset","1835d257-176f-464e-888e-55af1e0f422a","Delayed Discharges - Monthly Bed Days Occupied","Data.gov.scot",75
+"dataset","11c61a02-205b-43f6-9297-243679103617","Cancer Waiting Times","Scottish Health and Social Care Open Data",83
+"dataset","f23655c3-6e23-4103-a511-a80d998adb90","GP Practice Contact Details and List Sizes","Scottish Health and Social Care Open Data",83
+"dataset","9c102da0-acec-408e-a941-e9022b712646","Geographical reference","Data.gov.scot",75
+"dataset","e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e","Stage of Treatment Waiting Times","Scottish Health and Social Care Open Data",83
+"dataset","2e085b14-3640-4c6a-aab3-b04476d60718","Drug and Alcohol Treatment Waiting Times","Scottish Health and Social Care Open Data",83
+"dataset","d57ceb20-4449-4c3b-b07c-d2affe9b8dc0","Annual Outpatient Activity","Scottish Health and Social Care Open Data",83
+"dataset","9e032286-e5bf-4eb0-837d-c0a05fe0d839","Annual Inpatient and Daycase Activity","Scottish Health and Social Care Open Data",83
+"dataset","7e21f62c-64a1-4aa7-b160-60cbdd8a700d","Annual NHS beds information in Scotland","Scottish Health and Social Care Open Data",83
+"dataset","d7a60977-e127-4817-8669-69458d14ab4b","Long Acting Reversible Methods of Contraception (LARC) in Scotland","Scottish Health and Social Care Open Data",77
+"dataset","0e776a42-06d7-4d25-9671-28b09b7c30fe","Childhood Immunisation Statistics Scotland","Scottish Health and Social Care Open Data",74
+"dataset","aa92e795-0577-43d3-a7bf-a7ed16fbf983","Newborn bloodspot screening in Scotland","Scottish Health and Social Care Open Data",71
+"dataset","715b909a-57b5-4c89-b3b1-403652e7089f","Non-Domestic Energy Performance Certificates - Extended Historic Dataset to Q2 2026","Data.gov.scot",75
+"dataset","511cf30e-abcd-4d01-ab6f-88899a9a16bd","Non-domestic Energy Performance Certificates - Dataset to Q2 2026","Data.gov.scot",75
+"dataset","a7702ae9-66b4-4fe2-b8fe-e294ee03a6d0","Domestic Energy Performance Certificates - Extended Historic Dataset to Q2 2026","Data.gov.scot",75
+"dataset","009d6727-2eec-47cf-b51b-101ef37d86d9","Domestic Energy Performance Certificates - Dataset to Q2 2026","Data.gov.scot",75
+"dataset","4b4be829-c15e-480e-a2fc-996460ff63c6","Prescribed and Dispensed","Scottish Health and Social Care Open Data",83
+"dataset","0a5a8fd2-391b-4d5c-8351-eb0f5611df3a","Unpaid Care Provision - Scottish Surveys Core Questions","Data.gov.scot",75
+"dataset","c94b609c-8bb1-4277-9478-e2d74f1babad","Smoking - Scottish Survey Core Questions","Data.gov.scot",75
+"dataset","771db56a-76e4-47d8-8210-74de0ec83ec6","Scottish Index of Multiple Deprivation - Employment Indicators","Data.gov.scot",75
+"dataset","cdce6fcb-8052-405e-bc51-97386b29b2d9","Schools - Attainment by Deprivation","Data.gov.scot",75
+"dataset","80578e7d-5810-4694-87ef-2a29416469b1","Population living in close proximity to a derelict site","Data.gov.scot",75
+"dataset","1563e0d5-2d18-4fdb-afc0-bc868ef25443","Population Estimates: Young and Old","Data.gov.scot",75
+"dataset","647eb7b6-72dc-4c1b-bfdf-311d3dd58c61","Population Estimates Summary (Current Geographic Boundaries)","Data.gov.scot",75
+"dataset","66ac69e6-0785-409a-b9ab-45882fc84a86","Population Estimates - Census 2001","Data.gov.scot",75
+"dataset","ddf06ffb-b7c8-4f81-bfef-dbc524822826","Perceptions of Local Crime - Scottish Surveys Core Questions","Data.gov.scot",75
+"dataset","ebfc21c4-1b59-469f-99b0-d1fefd7a3840","Low Birthweight","Data.gov.scot",75
+"dataset","607d56b9-0397-4d98-8bcc-3130449b1ab1","Land Area (based on 2011 Data Zones)","Data.gov.scot",69
+"dataset","fceb0a2f-384a-4836-a759-8c6b49ba36d6","House Sales","Data.gov.scot",75
+"dataset","363d6079-6867-4c44-929a-381f8e8c7527","House Prices - Residential Properties Sales and Price","Data.gov.scot",75
+"dataset","f0cd5d1c-a6bb-47b8-a049-8dbd81d14b3b","House Prices","Data.gov.scot",75
+"dataset","9a1ccb90-62ea-4edd-8fbc-f0d64163f21f","Household Estimates","Data.gov.scot",75
+"dataset","66dbf7bf-4bfc-477c-a052-dbcb02f5e965","General Health - Scottish Surveys Core Questions","Data.gov.scot",75
+"dataset","2216f8c4-9e7d-486c-8b2a-24df2c82e285","Fire - Type of Incident","Data.gov.scot",75
+"dataset","6c8f5480-7e1f-43a2-acf4-fcb76218aec6","Dwellings per Hectare","Data.gov.scot",75
+"dataset","c0fce17c-ac74-4cd8-9dd7-785eb41d6ba9","Dwellings by Type","Data.gov.scot",75
+"dataset","1e7e6b6f-df8a-4291-8e57-3a58e67cedcf","Dwellings by Number of Rooms","Data.gov.scot",75
+"dataset","73a29111-6bf0-401b-a10f-7004374f4a81","Dwellings by Council Tax Band Summary (Current Geographic Boundaries)","Data.gov.scot",75
+"dataset","b0216396-4942-4486-8dac-55fa91faadc4","Dwellings by Council Tax Band Summary (2022 Data Zones)","Data.gov.scot",75
+"dataset","bd115402-b220-492f-aef8-514446c4a341","Disability - Scottish Surveys Core Questions","Data.gov.scot",75
+"dataset","5eecb301-50ec-45fc-b318-1769615d63ff","Deaths","Data.gov.scot",75
+"dataset","e0ebecab-f242-4ea5-8c34-307dba618c9e","Child Benefit - Families","Data.gov.scot",75
+"dataset","7b058451-11ce-49ec-83cf-6b6ffd61affb","Child Benefit - Children","Data.gov.scot",75
+"dataset","e3d9d458-0357-4fb7-9e20-c622f8f17230","Business Stocks & Sites","Data.gov.scot",75
+"dataset","7cb8677c-966d-441e-8146-f52c81613426","Bus Accessibility","Data.gov.scot",75
+"dataset","4b26bdba-e65b-468e-9f53-a11f615a8daf","Births","Data.gov.scot",75
+"dataset","6e8ab543-07c0-4015-88ec-b1f36442851f","Ante-Natal Smoking","Data.gov.scot",75
+"dataset","522a37cc-db09-4224-81dd-c2a52868bc27","Age of First Time Mothers","Data.gov.scot",75
+"dataset","efb2e11f-9e5c-4241-ba39-0b856cb04699","6-in-1 Immunisation","Data.gov.scot",75
+"dataset","a86fee95-8f92-443a-8ca4-9e814557f3a5","Community Pharmacy - Contractor Activity","Scottish Health and Social Care Open Data",83
+"dataset","688c7ea0-4845-4b03-9df0-4149c72cb7f0","Specialty Codes","Scottish Health and Social Care Open Data",68
+"dataset","cbd1802e-0e04-4282-88eb-d7bdcfb120f0","Hospital Codes","Scottish Health and Social Care Open Data",77
+"dataset","7f010430-6ce1-4813-b25c-f7f335bdc4dc","Population Estimates","Scottish Health and Social Care Open Data",83
+"dataset","0d36e992-ad75-4ff1-b692-094f3d873ad7","Psychological Therapies Waiting Times","Scottish Health and Social Care Open Data",80
+"dataset","dd6bf01f-ff9c-4aaa-801b-75d1a933ecb1","IVF Waiting Times in Scotland","Scottish Health and Social Care Open Data",83
+"dataset","f9bab568-501e-49d3-a0a4-0b9a7578b0de","Child and Adolescent Mental Health Waiting Times","Scottish Health and Social Care Open Data",83
+"dataset","dd042995-f74d-4a54-b732-14b2cbeb9c68","Best Start Grant and Best Start Foods: Expenditure","Data.gov.scot",75
+"dataset","419c6de4-b6f1-4a90-85c9-252a05a1c4c5","Best Start Grant and Best Start Foods: Applications","Data.gov.scot",75
+"dataset","3d1f49b2-f770-492f-82c9-ebefdc56ece4","Diagnostic Waiting Times","Scottish Health and Social Care Open Data",80
+"dataset","7e639f87-6364-4d29-929f-19bfe0256617","Scottish Child Payment: Caseload","Data.gov.scot",75
+"dataset","c402f134-fe24-480c-8059-e4953ffb4304","Scottish Child Payment: Applications and Payments","Data.gov.scot",75
+"dataset","6abb6414-26de-4e01-9698-194a973c71ce","Domestic Abuse Recorded by the Police: Number of Crimes & Offences and Rates","Data.gov.scot",75
+"dataset","fa854a2b-8630-41dd-86de-75488aaf6738","Annual Business Survey: Digital Technologies","Data.gov.scot",75
+"dataset","5db301d5-df1a-478a-b7c2-7b035ddf0e16","Urban Rural Classification (6-Fold)","Data.gov.scot",75
+"dataset","faf919cc-6906-4d13-84c8-ce19f6f8b957","Travel times to key services by car or public transport","Data.gov.scot",75
+"dataset","eadfc6d9-f843-45a8-ab16-a0eff4bad925","Total Fires","Data.gov.scot",75
+"dataset","3c12ffdf-d355-4f5e-afd2-4980794e15b3","Secondary Fires","Data.gov.scot",75
+"dataset","b18ba163-3429-4113-a7fe-e21dcd01bb31","Scottish Index of Multiple Deprivation - Income Indicators","Data.gov.scot",75
+"dataset","2809bad7-f56a-4669-8349-c7516e247d4c","Scottish Index of Multiple Deprivation - Housing Indicators","Data.gov.scot",75
+"dataset","9b9aa61f-228e-4dc6-93ee-7f42df312ea6","Scottish Index of Multiple Deprivation (Historical) - 2016","Data.gov.scot",75
+"dataset","3b3300ee-3a6f-46f7-827f-bc1684f99873","Scottish Index of Multiple Deprivation (Historical) - 2004-2012","Data.gov.scot",75
+"dataset","e0f3fd56-8025-498a-8063-61e0668ae337","Scottish Index of Multiple Deprivation - Health Indicators","Data.gov.scot",75
+"dataset","0e178b07-c60a-463d-9b66-f912ec3ba64f","Scottish Index of Multiple Deprivation - Geographic Access to Services Indicators","Data.gov.scot",75
+"dataset","c3308b17-1e19-4090-a9b1-c026a18b5a03","Scottish Index of Multiple Deprivation - Education Indicators","Data.gov.scot",75
+"dataset","7f1cd804-1683-492a-827a-ac2eef27d76e","Scottish Index of Multiple Deprivation - Crime Indicators","Data.gov.scot",75
+"dataset","b73057dd-be14-494b-8338-be4934ee7cb7","Scottish Index of Multiple Deprivation - Broadband Access Indicator","Data.gov.scot",75
+"dataset","6069b97a-fe9a-4be1-996b-d3fe5dc8e752","Scottish Index of Multiple Deprivation 2020","Data.gov.scot",75
+"dataset","2cc620d7-297c-4765-b377-2f93040c97ac","School Attendance Rate","Data.gov.scot",75
+"dataset","effb2879-7a4c-4a13-9a81-aa0c85b77820","Primary Road Vehicle and Other Primary Fires","Data.gov.scot",75
+"dataset","f487d160-8560-4f79-8141-0aef799e5993","Primary Building Fires","Data.gov.scot",75
+"dataset","a2cf37b0-200a-4f64-af22-f8d350514853","Primary 1 Children Body Mass Index - Epidemiological","Data.gov.scot",75
+"dataset","4e6dc2c4-3ac5-411a-b614-58fe35a868b1","Primary 1 Children Body Mass Index - Clinical","Data.gov.scot",75
+"dataset","1457d60e-e1bb-4e48-96ad-ab6a1e538ffd","Primary 1 BMI Distribution","Data.gov.scot",75
+"dataset","718e15a7-1cc2-4a39-ac23-56c1d632b9b7","Population Estimates (Historical Geographic Boundaries)","Data.gov.scot",75
+"dataset","88a428db-3244-4817-a887-ea39b685a805","Pension Credits","Data.gov.scot",75
+"dataset","d4825d8d-1476-409f-b41b-8b024a0f41d2","Palliative and End of Life Care","Data.gov.scot",75
+"dataset","6e6d0102-5150-47b6-86a7-d00b97a65fa7","Number of General Practices with Registered Patients","Data.gov.scot",75
+"dataset","1352e81f-c6e3-4cbb-a953-da8919286957","New clients presenting at specialist drug treatment services (SDMD)","Data.gov.scot",75
+"dataset","d75e5316-0206-4781-8ad5-e0d5e251a336","National Islands Plan Survey","Data.gov.scot",75
+"dataset","02eeb847-6f36-4d7b-9e30-16f4758709c2","Measles Mumps Rubella (MMR) Immunisation","Data.gov.scot",75
+"dataset","0372487c-4859-42bc-8180-e24d888e3a6d","Local Level Distribution of Household Income Estimates 2014","Data.gov.scot",75
+"dataset","a7de3511-4182-4530-890d-d69523dd7195","Local Level Average Household Income Estimates 2014","Data.gov.scot",75
+"dataset","e4ac2f6e-03c9-45a3-aa14-8942e0f1e639","Land Area (based on 2001 Data Zones)","Data.gov.scot",69
+"dataset","40b2194b-ca8f-4e4e-b212-d9f7eef5a5da","Job Seeker's Allowance Claimants","Data.gov.scot",75
+"dataset","6775ec3c-218d-40a5-ad3d-e679af0da0a6","Income Support Claimants","Data.gov.scot",75
+"dataset","9c2bc6b6-e141-4b08-b0a1-67655f34fa09","Hospital Admissions","Data.gov.scot",75
+"dataset","b822fd84-ac29-483f-9feb-921d2ba77a96","Historical Population Estimates (pre-2001, historical geographic boundaries)","Data.gov.scot",75
+"dataset","d76f1009-8cf7-4cd6-b4be-2089376e8782","Headcount of General Practice Workforce","Data.gov.scot",75
+"dataset","40a3e317-8c86-4fe7-bbc2-ed2503e11a05","Habitats Regulations - Scotland_Art3ZA_UK_marine_species_MUs (Scotland relevant) 2025","Data.gov.scot",75
+"dataset","87776f99-ede6-40b2-910b-0de5b0b41de0","Habitats Regulations - Scotland_Art3ZA_Species 2025","Data.gov.scot",75
+"dataset","6e0f980e-7bbf-47bc-8cf2-6421a5f5e7a7","Habitats Regulations - Scotland_Art3ZA_Habitats 2025","Data.gov.scot",75
+"dataset","0656dbf4-ed73-498c-a8ae-c502bf846ae9","Habitats Regulations - Scotland_Art3ZA_Birds Scottish SAPs Strategies and Working Groups 2025","Data.gov.scot",75
+"dataset","ec0fce69-3c20-42f1-a101-8685e257e2e3","Habitats Regulations - Scotland_Art3ZA_Birds proportion of GB population in SPAs 2025","Data.gov.scot",75
+"dataset","f9e9b3a6-f44f-4dc2-b370-463921360fd1","Habitats Regulations - Scotland_Art3ZA_Birds Pressures 2025","Data.gov.scot",75
+"dataset","002e4a55-7988-40b0-ac11-2c5870afa883","Habitats Regulations - Scotland_Art3ZA_Birds Conservation Measures 2025","Data.gov.scot",75
+"dataset","ea983bad-57db-424c-bf0d-7d3e19ed4791","General Practice List Size","Data.gov.scot",75
+"dataset","77d28640-b995-4b33-9868-9de4428a5697","Emergency Repeat Admissions","Data.gov.scot",75
+"dataset","2607a234-6174-4f6b-89fd-9196a7604096","Educational attainment of school leavers","Data.gov.scot",75
+"dataset","e7b63d9a-18d4-45a6-8d7d-09a0645c5de6","Dwellings Median Number Of Rooms","Data.gov.scot",75
+"dataset","ab7d4382-1bf1-4aa5-9088-f0a940a87a68","Dwellings In Flood Risk Areas","Data.gov.scot",75
+"dataset","3586601e-9a0d-41e2-9f38-e1974c5074d4","Dwellings by Council Tax Band (Historical Geographic Boundaries)","Data.gov.scot",75
+"dataset","d7188da1-a024-4759-a25e-970e89eaf851","Dwellings by Council Tax Band Detailed (Current Geographic Boundaries)","Data.gov.scot",75
+"dataset","7cd85fcf-a39e-4a6c-84e8-5721af900501","Drug Related Hospital Discharge","Data.gov.scot",75
+"dataset","69498df4-56de-408d-83c1-c6714093c679","Disability Living Allowance (Care Component)","Data.gov.scot",75
+"dataset","2ff5d215-d3ee-445c-9af9-609351cb23dc","Disability Living Allowance","Data.gov.scot",75
+"dataset","8f92fb02-ef1e-4ef6-bdab-667ec1dc1aa4","Child Dental Health","Data.gov.scot",75
+"dataset","e9396a11-c1a3-406e-9278-e56881a086f9","Care Homes: Weekly Charges and Sources of Funding","Data.gov.scot",75
+"dataset","8591af49-a905-483a-90b6-17511204a3f0","Care Homes: Type Of Stay","Data.gov.scot",75
+"dataset","58e2fd31-996b-4836-81a7-3859dc0eead3","Care Homes: Places","Data.gov.scot",75
+"dataset","6d7e6776-b4a5-47e2-8ed4-5306149dc34f","Care Homes: Occupancy Rate","Data.gov.scot",75
+"dataset","7b3e586e-5c5a-408e-bc73-403dab863a58","Care Homes: Number of Homes","Data.gov.scot",75
+"dataset","4b16c0b0-8ba9-460d-8531-0888b7c8772f","Care Homes: Length Of Stay","Data.gov.scot",75
+"dataset","13e5ed34-7122-4e6a-a0ec-1b3c260a4d20","Care Homes: Health Characteristics of Residents","Data.gov.scot",75
+"dataset","d7904fcf-4c0b-4bae-951d-bb2d3a738a5e","Care Homes: Demographic Characteristics of Residents","Data.gov.scot",75
+"dataset","7bc367d9-3f95-4662-8416-bc0f7e20d99c","Care Homes: Average Age of Residents","Data.gov.scot",75
+"dataset","77041bb5-e2f9-416a-b82f-ef7c0893dace","Care Homes: Admissions, Discharges and Deaths","Data.gov.scot",75
+"dataset","6acbe891-28ba-4737-9334-a9164f68c828","Cancer Registrations (1997 to 2009)","Data.gov.scot",75
+"dataset","d0fdf2b2-cd89-4c4d-931b-42b12b502a91","Breastfeeding","Data.gov.scot",75
+"dataset","62119ef9-cfc6-487c-bb81-295e583ac8ac","Attendance Allowance","Data.gov.scot",75
+"dataset","06289a7a-2e6f-422a-b714-b6f08f16d228","Alcohol Related Hospital Statistics","Data.gov.scot",75
+"dataset","c2c59eb1-3aff-48d2-9e9c-60ca8605431d","Annual Cancer Incidence","Scottish Health and Social Care Open Data",83
+"dataset","d903ce28-bd58-4754-b144-ee33f6c482d3","Supply, Use and Input-Output Tables","Data.gov.scot",75
+"dataset","2c247573-f9d8-48fa-8937-2dd2c09dc092","Scottish Government Ecosystem Fund Awards 2025-26","Data.gov.scot",75
+"dataset","98a2f1b9-15e4-418a-be1c-86fe317cbf1a","Rural Scotland Business Panel Survey","Data.gov.scot",75
+"dataset","f619cf7c-3bc4-42d1-bb28-f06cf38223d0","Population Estimates Detailed (Current Geographic Boundaries)","Data.gov.scot",75
+"dataset","575369c6-9aa0-46b8-b6f2-9ba22ee2e789","National Performance Framework","Data.gov.scot",75
+"dataset","cd6794e4-089b-4191-8983-6a2b519561aa","Attitudes to family formation in Scotland data tables","Data.gov.scot",75
+"dataset","5554f6e0-81ec-43de-ae21-6fc6b41e8383","2022 Data Zone Lookup","Data.gov.scot",75
+"dataset","91ee45d3-b319-4184-a5f0-8dfb3304ac9a","2011 Data Zone Lookup - Archived Geographies","Data.gov.scot",75
+"dataset","cde337d5-2350-4406-a900-5c8d9a8e675c","2011 Data Zone Lookup","Data.gov.scot",75
+"dataset","c88a5231-f7e7-418d-811e-8fc2bec79787","Hospital Standardised Mortality Ratios","Scottish Health and Social Care Open Data",62
+"dataset","ea7940ef-40a0-430e-be7e-bb98efbb84fd","Schools - Positive Leaver Destinations","Data.gov.scot",75
+"dataset","f5faba65-f183-4c68-8591-a8a714d58388","Schools - Literacy and Numeracy","Data.gov.scot",75
+"dataset","dfa39a2a-7fd4-49aa-b497-0b852c78d78a","Schools - Leaver Count","Data.gov.scot",75
+"dataset","bbe008b0-d014-4fce-8d00-e4852dceebfc","Schools - Breadth and Depth of Qualifications","Data.gov.scot",75
+"dataset","e683c2e3-fe3b-4e65-a766-f496c9380a1c","Schools - Attainment for All","Data.gov.scot",75
+"dataset","1bbd5bd3-f641-4fc0-895e-d93e7379d308","Young Carer Grant Applications and Payments","Data.gov.scot",75
+"dataset","e47ff233-5047-47c3-b08a-c15d8d89f23b","Winter Heating Payment","Data.gov.scot",75
+"dataset","962441de-a6fb-4b42-b09a-32488b8a160e","Underemployment","Data.gov.scot",75
+"dataset","938f1462-5ff3-406f-970a-401569eacafe","Travel to Work and Other Purposes","Data.gov.scot",75
+"dataset","a4aeb98b-0bfc-4bf7-97d7-566db39b4fdb","Temporary Accommodation Statistics","Data.gov.scot",75
+"dataset","4d1717d9-7767-47fa-997b-ed91a5a8e5ec","Social Work Orders Terminated","Data.gov.scot",69
+"dataset","0635bff0-0e17-4cd3-99e5-d5828bccdc76","Social Work Orders Commenced","Data.gov.scot",63
+"dataset","599579ab-317d-40a6-b87a-8969e3f07bf4","Social Security Scotland Feedback: Suggestions","Data.gov.scot",75
+"dataset","c3a30220-3edc-40b9-9779-15099c52d024","Social Security Scotland Feedback: Compliments","Data.gov.scot",75
+"dataset","4ae9b962-89fc-4593-80a3-576a5ed955d4","Social Security Scotland Feedback: Complaints","Data.gov.scot",75
+"dataset","ec76ceae-086b-4527-9336-3caedd13f77a","Social Security Scotland Feedback: Complaint Outcomes","Data.gov.scot",75
+"dataset","e79d7fd3-d866-48d0-b558-8fffd4453c13","Social Security Scotland: clients responding to equality forms to December 2019","Data.gov.scot",75
+"dataset","c1187e21-56d6-416e-8f29-055f55dbffdc","Social Security Scotland: clients responding to equality forms","Data.gov.scot",75
+"dataset","44ffce56-e2b4-4050-9e86-24eac529cba6","Social Security Scotland: clients equalities with application outcome to December 2019","Data.gov.scot",75
+"dataset","d5757e5d-182f-437a-b973-fe1a84f73824","Social Security Scotland: clients equalities with application outcome","Data.gov.scot",75
+"dataset","fc8b3b1a-870b-4752-8194-9f57b71ede77","Smoking prevalence in young people (SALSUS)","Data.gov.scot",75
+"dataset","71cfdff8-a625-4053-ae40-e87cc4dc39c9","Smoking prevalence and deprivation (SALSUS)","Data.gov.scot",75
+"dataset","2605cf54-7ac9-4d80-94ed-2779c34b28a5","Smoking behaviour and self-rated health (SALSUS)","Data.gov.scot",75
+"dataset","b01d4ce8-b4ff-48e1-b951-02f039f568f6","Settlements and Localities Population","Data.gov.scot",75
+"dataset","6214251c-6f00-4b17-b3fe-82e7eec5cb65","Self Employment","Data.gov.scot",75
+"dataset","5e1d5a4d-7b74-4117-a26d-146472b119e8","Scottish Welfare Fund Expenditure","Data.gov.scot",75
+"dataset","029e2cd0-6fac-4faf-925f-5f432172a2ac","Scottish Welfare Fund Applications","Data.gov.scot",75
+"dataset","7a42fee5-2787-4eaa-8312-6c01ba83d20f","Scottish Housing Quality Standard (SHQS)","Data.gov.scot",75
+"dataset","2912c2f8-6608-47c1-8088-1ad3a05779fb","Scottish Health Survey-Scotland level data by SIMD","Data.gov.scot",75
+"dataset","e7cee94a-5f67-4a80-87d0-a7be41a98217","Scottish Health Survey-Scotland level data by sex","Data.gov.scot",75
+"dataset","07f74054-b49c-4d92-a032-3f2a7de7b896","Scottish Health Survey-Scotland level data by long-term conditions","Data.gov.scot",75
+"dataset","3ff7ea07-0d30-4c9f-b21f-a8a5c9b0d558","Scottish Health Survey-Scotland level data by equivalised income","Data.gov.scot",75
+"dataset","6a10f3d4-e153-4f8b-b875-659ecca5f4ad","Scottish Health Survey-Scotland level data by age","Data.gov.scot",75
+"dataset","fd5b5733-aa68-422a-af2c-2cdf04667feb","Scottish Health Survey-Local area level data","Data.gov.scot",75
+"dataset","3ccf7311-52b4-44e0-be53-e739c6e73212","Scottish Government Spend with Top 50 Suppliers","Data.gov.scot",75
+"dataset","7094dd4d-7516-4c1a-9bc5-ef1b5a42d166","Road Vehicles","Data.gov.scot",75
+"dataset","fe11982c-1baa-4d99-a334-de99c5f8d806","Road Transport Expenditure","Data.gov.scot",75
+"dataset","48fbdcaf-b36a-4842-9c32-4930b4293144","Road Network and Traffic","Data.gov.scot",75
+"dataset","1928213c-0d6a-43aa-8fa7-1a0799f80879","Road Casualties","Data.gov.scot",75
+"dataset","2f231881-9656-4f72-9dac-d35a81ef47cf","Renewable Electricity 2000 - 2020","Data.gov.scot",75
+"dataset","b73f4454-6b8a-432c-9446-7aa27c73569f","Recorded Crimes and Offences","Data.gov.scot",75
+"dataset","63d62592-28ce-4cfb-8429-659092cf4c1f","Reconvictions","Data.gov.scot",75
+"dataset","b6c6f1b8-a6fa-4fbd-966d-f66804e19571","Public Transport","Data.gov.scot",75
+"dataset","13a85e28-2bae-43b9-b03e-0df440da19a9","Poverty (working age adults)","Data.gov.scot",75
+"dataset","67f1ca63-28b2-48be-aa9c-87c5353a31c1","Poverty (single adults)","Data.gov.scot",75
+"dataset","74ec30ad-c797-442f-93de-f2224f305d27","Poverty (pensionable age adults)","Data.gov.scot",75
+"dataset","09ad21c4-9633-47e4-a31a-84c0711b0389","Poverty (children)","Data.gov.scot",75
+"dataset","ff750736-d292-4c9c-af57-e7202fca8842","Poverty (all people)","Data.gov.scot",75
+"dataset","eceb4b9d-65d8-4671-98ee-7859864745a8","Poverty (adults)","Data.gov.scot",75
+"dataset","c4a57b10-327f-434d-a518-96dad8338f3c","Population Projections (2022-based)","Data.gov.scot",75
+"dataset","0442f6a7-e061-4a24-80a9-798ea329a331","Population Projections (2020-based) [updated]","Data.gov.scot",75
+"dataset","9ca9e781-a0ac-42a7-b4e1-87f14683222c","Population Projections (2018-based)","Data.gov.scot",75
+"dataset","030a389d-2e1d-4cd6-a595-a9a37b95c4b4","Population Projections (2016-based)","Data.gov.scot",75
+"dataset","285b3559-6415-4a2f-969f-0e6bc8d478a5","Population of Settlements and Localities 2020","Data.gov.scot",75
+"dataset","14264786-5fc8-4290-91d2-97d1f0d3382a","Police Officer Quarterly Strength","Data.gov.scot",75
+"dataset","bd849536-3305-402c-b9e3-21fed5696400","Personal Insolvency","Data.gov.scot",75
+"dataset","9dca765a-9589-440c-b61d-53e16443c278","Pension Age Disability Payment","Data.gov.scot",75
+"dataset","1d8f6d7e-5715-4d4e-b1d8-4944aec20139","Number of HMO Licences in Force","Data.gov.scot",75
+"dataset","3a0177a8-cc35-416b-8823-4a7577e8363e","New Build Housing Starts and Completions","Data.gov.scot",75
+"dataset","8ff6f440-4e8c-4934-ae84-8e5062560945","Net Migration","Data.gov.scot",75
+"dataset","a9d3e5ad-3c1f-456c-a230-1fa6e2f522d4","Neighbourhood safety when walking alone - Scottish Household Survey","Data.gov.scot",75
+"dataset","cf11f378-8780-4951-b7ec-508c8a74877c","Neighbourhood rating - Scottish Household Survey","Data.gov.scot",75
+"dataset","00c4f7af-b782-4ce7-a6e6-5da278855bc2","Migration To and From Scotland","Data.gov.scot",75
+"dataset","ae60910e-af0f-4fd8-92e7-f0c98062df1e","Mid-Year Household Estimates","Data.gov.scot",75
+"dataset","d276e281-ad64-4a91-be8d-4954408c5043","Mental Wellbeing - Scottish Surveys Core Questions","Data.gov.scot",75
+"dataset","a81a87f6-e20d-467b-96ba-1dfa0e67fec7","Looked After Children","Data.gov.scot",75
+"dataset","7a32219b-f462-4cf8-8c48-b9f3dc0fdf3a","Local Service Satisfaction - Scottish Surveys Core Questions","Data.gov.scot",75
+"dataset","3d74abd7-f0c0-4300-bc7d-9c221fa23477","Local Authority Vacant Dwellings (vacancies arising during the year)","Data.gov.scot",75
+"dataset","5caf88cc-b235-4b9e-a8ba-8a757ed2b42f","Local Authority Vacant Dwellings","Data.gov.scot",75
+"dataset","33b6b807-78e2-4518-b72f-c72795c44dfe","Local Authority Services and Performance - Scottish Household Survey","Data.gov.scot",75
+"dataset","4c05e82d-96ba-4067-8430-386e9355a2a5","Local Authority Housing Stock by Type","Data.gov.scot",75
+"dataset","34272329-1aeb-46b2-8ef3-6f1ad382201e","Local Authority Housing Stock by Normal Use","Data.gov.scot",75
+"dataset","3d580fd5-f394-4752-a197-a46f7d402d5d","Local Authority Housing Stock by Age","Data.gov.scot",75
+"dataset","c7bcf2ef-c741-481a-9af6-d79cbc798245","Local Authority Housing Lettings","Data.gov.scot",75
+"dataset","f0411d55-f3e6-4fbe-acf1-a8db6709b13e","Living Wage","Data.gov.scot",75
+"dataset","5c618a6a-c7f8-43bf-914a-4b13bcb3a960","Life Expectancy","Data.gov.scot",75
+"dataset","a0aa3e3a-4f98-4edc-a7f1-dd5ab422c044","Labour Productivity: Quarterly","Data.gov.scot",75
+"dataset","9ab35f72-e3b5-4182-84b1-a342aa4a9293","Labour Productivity: Annual","Data.gov.scot",75
+"dataset","e2b3be9e-c4fa-4c30-a783-a9bb54866240","Justice Social Work Reports","Data.gov.scot",75
+"dataset","bdb769c3-45c8-4ea6-8abc-ab237470263b","Job Start Payment: Applications and Payments","Data.gov.scot",75
+"dataset","714b6ee9-fa08-4ccf-9f45-b672dd96d19c","Involvement with people in the neighbourhood - Scottish Household Survey","Data.gov.scot",75
+"dataset","5aaa2276-fcde-449b-9c88-1d57a0639701","Infant Deaths","Data.gov.scot",75
+"dataset","d4bd7ae5-2ba1-4738-a9a6-351f4a048c89","Housing Lists","Data.gov.scot",75
+"dataset","a9b85a55-d8f5-4335-8794-89f69dbe5d0b","Household Type","Data.gov.scot",75
+"dataset","fb984bf2-4d03-4536-aa5c-9c833729a416","Household Tenure - Scottish Survey Core Questions","Data.gov.scot",75
+"dataset","3ba68f0b-4df3-4d33-ad6b-79f7178fc520","Household Projections of Average Household Size","Data.gov.scot",75
+"dataset","76a1a50f-21bd-4901-b29e-7511d6b1caab","Household Projections","Data.gov.scot",75
+"dataset","3903a2df-62a3-4e06-9eed-f747bf1d94e8","Household Financial Management - Scottish Household Survey","Data.gov.scot",75
+"dataset","a692c807-1077-4ee3-9d3d-b7e28ed98191","Homelessness Applications","Data.gov.scot",69
+"dataset","ccbf5f00-2c0d-4f8e-8ab7-407e9f641aca","Healthy Life Expectancy","Data.gov.scot",75
+"dataset","85bf06ed-0bc9-41e7-88d9-72980fb58a17","Gross Expenditure on Research and Development","Data.gov.scot",75
+"dataset","07a8298f-14fe-4548-b9ef-df5e38567fb1","Gross Domestic Product: Quarterly Output by Industry","Data.gov.scot",75
+"dataset","6f5a87bb-1c5f-4e64-9546-832647603fb2","Gross Domestic Product: Annual Output by Industry","Data.gov.scot",75
+"dataset","e98ca34f-476a-4f89-a88c-313b71d11836","Greenhouse Gas Emissions by TESS sector and gas","Data.gov.scot",75
+"dataset","ba8b8435-4cf3-47c4-aba4-677135eeebab","Greenhouse Gas Emissions","Data.gov.scot",75
+"dataset","7e675b11-85f2-46f4-9d9c-0925228b83eb","Generation and Management of Household Waste","Data.gov.scot",75
+"dataset","c5e178a6-63d0-4cb4-9422-611f03dab3ac","Gender Pay Gap","Data.gov.scot",75
+"dataset","f97a7783-c339-4657-acf9-1e5959306603","Gender Employment Gap","Data.gov.scot",75
+"dataset","5ff4d337-6b17-4506-8a20-6146c21b0ded","Funeral Support Payment: Applications and Payments","Data.gov.scot",75
+"dataset","efe4ec48-56da-4071-9b1d-d61a577ada66","Full-Time and Part-Time Employment","Data.gov.scot",75
+"dataset","4d5f6b97-1ca0-4d9a-96af-cf6a0c49e73c","Fuel Poverty (Scottish House Condition Survey)","Data.gov.scot",75
+"dataset","ff0a93c2-d627-47c3-8eda-f0ea6638c10d","Feeling safe when alone at home - Scottish Household Survey","Data.gov.scot",75
+"dataset","1cdc7bff-6a58-4365-9302-e16390657d9d","Farm Business Survey: Farm level emissions and nitrogen usage","Data.gov.scot",75
+"dataset","d4855aea-0694-4a3a-b9fe-9da7f153c784","Exports by Industry","Data.gov.scot",75
+"dataset","1306c8aa-0a58-4da3-a2ef-cb3511187eac","Energy Consumption","Data.gov.scot",75
+"dataset","f32fa711-1e03-4b0f-8c50-0472a301f791","Employment","Data.gov.scot",75
+"dataset","2c620fd1-b614-42d4-8d50-b0cc9b3a19e6","Economic Inactivity","Data.gov.scot",75
+"dataset","02ea2d70-ea22-4f0d-992f-1006632ba0d4","Economic Activity","Data.gov.scot",75
+"dataset","e988eeac-f919-416d-8bf5-01db61c0537f","Earnings","Data.gov.scot",75
+"dataset","af6113c5-9e3e-405e-a6e4-740acea672c7","Early Learning and Childcare: Services Registered","Data.gov.scot",75
+"dataset","42cf07df-f651-4762-a5c7-cb17596e7628","Early Learning and Childcare: Children Registered","Data.gov.scot",75
+"dataset","f1b3ea33-24ba-4195-befc-d5b419c0a85f","Dwelling Disrepair (Scottish House Condition Survey)","Data.gov.scot",75
+"dataset","0276d121-5041-478a-bb98-98da69cb070c","Drug use behaviour and deprivation (SALSUS)","Data.gov.scot",75
+"dataset","9850805d-e7e0-4f01-bf56-7cf155e7c28a","Drug use behaviour among young people (SALSUS)","Data.gov.scot",75
+"dataset","3ebbafb6-67ba-4227-87f9-670714b0f9e2","Drinking behaviour and emotional and behavioural problems (SALSUS)","Data.gov.scot",75
+"dataset","3237a26d-4958-484d-8d2a-6cc2d3aee1d3","Drinking behaviour among young people (SALSUS)","Data.gov.scot",75
+"dataset","e8083e0e-4d06-42d4-9998-b98d74518981","Domestic Abuse Recorded by the Police: Number of Incidents and Rates","Data.gov.scot",75
+"dataset","fad17066-e63f-45c3-9beb-351545d17ae3","Domestic Abuse Recorded by the Police: Incidents with at least one Crime or Offence","Data.gov.scot",75
+"dataset","d53a7408-9fa6-404e-a982-e7855a457a1c","Distance to Green or Blue Space - Scottish Household Survey","Data.gov.scot",75
+"dataset","657edfe8-deab-4eeb-9640-7728c6fc55d5","Discretionary Housing Payments Expenditure","Data.gov.scot",75
+"dataset","0ad41928-3679-4ee8-a3c2-421ccf3db11e","Discretionary Housing Payments Determinations","Data.gov.scot",75
+"dataset","79f79f6e-52a5-4d2d-9c29-c59b7861b6d3","Discretionary Housing Payments Awards","Data.gov.scot",75
+"dataset","46634fe7-eb02-4d8a-8d23-49c1f672a799","Discretionary Housing Payments Applications","Data.gov.scot",75
+"dataset","557758e1-aeda-4951-92f7-a6de65708399","Derelict and Urban Vacant Land","Data.gov.scot",75
+"dataset","4e0099d4-2ecf-4569-b366-aba476fc6442","Dependency Ratio","Data.gov.scot",75
+"dataset","419b313c-6a9c-4dd3-855d-d5e3c8af935e","Debt Arrangement Scheme (DAS)","Data.gov.scot",75
+"dataset","f5cc5a06-4d4a-49c5-b690-1c82451e0c06","Crime Clear up Rates","Data.gov.scot",75
+"dataset","02ff8f6b-0094-4168-8645-fb245e33cf19","Covid-19: Scottish Contact Survey","Data.gov.scot",75
+"dataset","262a0cf6-a9a1-4791-ae54-7d178a827a0c","Court Process Times","Data.gov.scot",75
+"dataset","8886163a-a1d0-4ecd-8eae-bcfe804b540d","Council Tax Collection Rates","Data.gov.scot",75
+"dataset","56769da9-1fe8-4c42-be5a-e573b27f5e71","Corporate Insolvency","Data.gov.scot",75
+"dataset","29385074-dff4-4172-8187-3ada06b96d93","Coronavirus - COVID-19 - Management Information (up to 11/04/2022)","Data.gov.scot",75
+"dataset","bdd73e8a-67a2-4086-bf07-fd3fa30a0f87","Confidence in Policing - Scottish Survey Core Questions","Data.gov.scot",75
+"dataset","291deff9-7388-41bd-a8dc-8b707f1363bf","Concessionary Travel Cards","Data.gov.scot",75
+"dataset","2e027f04-5843-493a-9e8e-d220e69aff51","Community Payback Orders: Commenced","Data.gov.scot",75
+"dataset","6c3284e4-b0b4-4b76-9286-83e56b88ccb0","Community Payback Orders: Breach Applications","Data.gov.scot",75
+"dataset","4e5a681a-32f7-471e-9721-589983d94d4a","Community Ownership - Number of Community Groups","Data.gov.scot",75
+"dataset","1d7cad34-8cc5-4872-8c61-935a7bc3ff24","Community Ownership - Number of Assets","Data.gov.scot",75
+"dataset","4509aac9-8a55-4870-883c-fc3c397cf1de","Community Ownership - Area of Land","Data.gov.scot",75
+"dataset","11ee44dc-c67a-468e-8a91-705558a6c133","Community belonging - Scottish Household Survey","Data.gov.scot",75
+"dataset","52e8b172-6bff-4290-8044-00ce468298fd","Child Winter Heating Assistance","Data.gov.scot",75
+"dataset","6b4ce2fd-56cf-466d-8f9f-c43ed572b264","Children in Families with Limited Resources","Data.gov.scot",75
+"dataset","79214b58-1389-43c5-ad8b-d0819be46306","Child Disability Payment: Applications and Payments","Data.gov.scot",75
+"dataset","b15c1241-15fc-4558-9c43-fea89957792e","Cereal and Oilseed Rape Harvest: Final Estimates","Data.gov.scot",63
+"dataset","1056f623-71a6-40b5-bd89-3ca29a62e1b5","Carer Support Payment","Data.gov.scot",69
+"dataset","7b25a40a-4484-4824-8785-11f48be6a7c7","Carer's Allowance Supplement","Data.gov.scot",75
+"dataset","9910e6bc-dc52-4870-a461-9cb012170c59","Carbon Footprint Breakdown","Data.gov.scot",75
+"dataset","08b8b542-fa23-449f-add5-b18cf6c742ca","Carbon Footprint","Data.gov.scot",75
+"dataset","5a26ec47-1a92-49f8-aa89-602df4c88e3b","Cancer Registrations - Annual Data","Data.gov.scot",75
+"dataset","20d45066-31f5-41b7-950d-757524b52e54","Business Stocks and Sites by Urban Rural Classification","Data.gov.scot",75
+"dataset","e9e95034-5c3e-47de-aafd-96fc726da4f5","Business Stocks and Sites by Region of Ownership","Data.gov.scot",75
+"dataset","93c2b865-78c8-4dfd-a22d-4bb6f5edbcab","Business Innovation","Data.gov.scot",75
+"dataset","174ebae6-3130-48a8-a6eb-6389cdb6fefd","Business Enterprise Research and Development Expenditure","Data.gov.scot",75
+"dataset","42b1ef38-63f0-4dcb-b413-ef938245df83","Business Demography - Survival","Data.gov.scot",75
+"dataset","e64b5139-bfe2-4b77-82e0-b6a5867ac00f","Business Demography - Births and Deaths","Data.gov.scot",75
+"dataset","4da73b82-cf66-4427-966f-9de9fb8cea8d","Average Household Size","Data.gov.scot",75
+"dataset","9c80f876-1c67-4ea0-9dbd-5669d5924938","Attitudes to family formation in Scotland linked data","Data.gov.scot",75
+"dataset","87e1140b-1864-4d42-bbea-eb062cda356d","Area improvement - Scottish Household Survey","Data.gov.scot",75
+"dataset","b93425a7-6ad3-4798-9414-37579b512914","Annual Business Survey","Data.gov.scot",75
+"dataset","dbaa99ed-37cb-4fb3-b91f-b683e39357a3","Alcohol use ever among young people (SALSUS)","Data.gov.scot",75
+"dataset","4b9dc5d9-1a3e-4920-b86c-1e799bf4600e","Affordable Housing Supply Programme","Data.gov.scot",75
+"dataset","9a0163c6-6824-4efe-8583-62b017e39abc","Adults (16-64 years) with low or no qualifications","Data.gov.scot",75
+"dataset","746664fe-3275-4df1-a7ff-de25c72efe62","Adult Disability Payment: Applications and Payments","Data.gov.scot",75
+"dataset","3d267fe1-c1ad-4882-ae45-692f06474fd2","Unemployment Model Based Estimates","Data.gov.scot",75
+"dataset","f2187c0a-7dd8-46f8-aa6f-b4ea93d0a88c","Commuting time by Travel to Work Areas","Data.gov.scot",53
+"dataset","e3300e98-cdd2-4f4e-a24e-06ee14fcc66c","GP Practice Population Demographics","Scottish Health and Social Care Open Data",83
+"dataset","daefc473-f49e-4b40-8bc5-366a8e7a759e","General Practitioner Contact Details","Scottish Health and Social Care Open Data",83
+"dataset","17eeca19-a7ef-4f52-9ec4-5f9331e31cfc","Teenage Pregnancy","Scottish Health and Social Care Open Data",83
+"dataset","959f2341-ca34-428c-8abb-b925a18fc0c7","Allied Health Professionals - Musculoskeletal Waiting Times","Scottish Health and Social Care Open Data",77
+"dataset","d684d4a5-f7ae-4a1a-ae8d-adf55304274e","Termination of Pregnancy in Scotland","Scottish Health and Social Care Open Data",83
+"dataset","d73b93ab-b09f-4d39-9cfb-0e5e34085803","Inpatient and Day Case Activity","Scottish Health and Social Care Open Data",83
+"dataset","40c82960-c148-4cb8-b780-addddff6e07c","Outpatient Activity","Scottish Health and Social Care Open Data",83
+"dataset","554b0e7a-ccac-4bb6-82db-1a8b306fcb36","NHS Beds information in Scotland","Scottish Health and Social Care Open Data",83
+"dataset","2f218ba7-6695-4b22-867d-41383ae36de7","Dental Practices and Patient Registrations","Scottish Health and Social Care Open Data",83
+"dataset","9e00b589-817e-45e6-b615-46c935bbace0","Population Projections","Scottish Health and Social Care Open Data",83
+"dataset","13388e04-69b4-4d8b-a93b-4740f0792135","Pregnancy Screening for Down’s Syndrome, Edwards’ Syndrome and Patau’s Syndrome in Scotland","Scottish Health and Social Care Open Data",77
+"dataset","a7acd6f7-8f50-4433-b952-cee6807d0ff6","Urban Rural Classification","Scottish Health and Social Care Open Data",74
+"dataset","fbeffeb6-ff26-4bec-86b7-74fc209353dd","Early Child Development - 4-5 year review statistics","Scottish Health and Social Care Open Data",83
+"dataset","7c5b29b9-7230-43e7-8b90-b5302c687620","Early Child Development - 13-15 month review statistics","Scottish Health and Social Care Open Data",83
+"dataset","f4ee46d4-cda9-4180-b6be-0f0e45ee3c8c","Early Child Development - 27-30 Month Review Statistics","Scottish Health and Social Care Open Data",83
+"dataset","ea48edb7-3dbe-44d5-8057-7ba5eeefb7d8","Pregnancy infectious diseases screening in Scotland","Scottish Health and Social Care Open Data",71
+"dataset","2337c1d2-4e73-4cce-9039-1bce728108b2","Estimated Prevalence of Opioid Dependence in Scotland","Scottish Health and Social Care Open Data",68
+"dataset","874b6f70-8640-458a-81cb-83afde9ffd71","Scottish Cervical Screening Programme Statistics","Scottish Health and Social Care Open Data",80
+"dataset","aa8b22e8-8a02-484d-a6c8-0a0154a6249d","[Archived] 18 Weeks Referral to Treatment","Scottish Health and Social Care Open Data",74
+"dataset","a961302c-aeb7-49b2-9691-9d3da82ca0d9","Drug-Related Hospital Statistics Scotland","Scottish Health and Social Care Open Data",80
+"dataset","eac9e673-09e2-4385-9879-c238f65468fd","Cancer Mortality","Scottish Health and Social Care Open Data",83
+"dataset","f5dcf382-e6ca-49f6-b807-4f9cc29555bc","Scottish Stroke Statistics","Scottish Health and Social Care Open Data",83
+"dataset","0e17f3fc-9429-48aa-b1ba-2b7e55688253","Scottish Heart Disease Statistics","Scottish Health and Social Care Open Data",80
+"dataset","164106cb-14ea-4a48-a553-aef2f7a90704","Infant Feeding","Scottish Health and Social Care Open Data",83
+"dataset","75cca0a9-780d-40e0-9e1f-5f4796950794","Care Home Census","Scottish Health and Social Care Open Data",83
+"dataset","01fe4008-23f8-4b34-b8f6-c38699a2f00d","Primary 1 Body Mass Index (BMI) Statistics","Scottish Health and Social Care Open Data",83
+"dataset","11c09588-61d6-4d45-be68-0a98fd061003","NHSScotland Payments to General Practice","Scottish Health and Social Care Open Data",80
+"dataset","807cf7c8-ba2a-49e3-b9d8-055799ecefd2","Teenage Td/IPV and MenACWY Immunisation Statistics","Scottish Health and Social Care Open Data",74
+"dataset","272ce3f2-875b-4271-9a44-67486c1b59c4","HPV Immunisation Statistics","Scottish Health and Social Care Open Data",74
+"dataset","df10dbd4-81b3-4bfa-83ac-b14a5ec62296","Births in Scotland","Scottish Health and Social Care Open Data",83
+"dataset","c87b061a-50cc-40c2-8c45-c74b32a89633","Scottish One Health Antimicrobial Use and Antimicrobial Resistance - Annual Report","Scottish Health and Social Care Open Data",74
+"dataset","bb51bb74-fc42-48c1-bf51-ea71418150a1","Scottish Suicide Information Database - Contact with Healthcare Services prior to death","Scottish Health and Social Care Open Data",83
+"dataset","b0135993-3d8a-4f3b-afcf-e01f4d52137c","Unintentional Injuries","Scottish Health and Social Care Open Data",80
+"dataset","420eec42-bc55-48cd-9b29-238d6fe32ea4","Congenital Conditions open data","Scottish Health and Social Care Open Data",68
+"dataset","cff63b00-5c99-4efd-9ff7-83c4a1a95fe9","NHS Smoking Cessation Service Statistics (Scotland)","Scottish Health and Social Care Open Data",83
+"dataset","a877470a-06a9-492f-b9e8-992f758894d0","NHS Scotland Accident & Emergency Sites","Scottish Health and Social Care Open Data",74
+"dataset","110c4981-bbcc-4dcb-b558-5230ffd92e81","Scottish Morbidity Record Completeness","Scottish Health and Social Care Open Data",77
+"dataset","c4db1692-fa02-4a1c-af4c-6039c74633ea","Alcohol Related Hospital Statistics Scotland","Scottish Health and Social Care Open Data",83
+"dataset","4ace86c2-2c0f-4620-b544-932148c2c4d3","Mental Health Inpatient Activity","Scottish Health and Social Care Open Data",83
+"dataset","58ab4daa-3100-480f-8853-8cb2bebe442f","Initial Assessments for Specialist Drug and Alcohol Treatment","Scottish Health and Social Care Open Data",83
+"dataset","b318bddf-a4dc-4262-971f-0ba329e09b87","ARCHIVED - COVID-19 Statistical Data in Scotland","Scottish Health and Social Care Open Data",83
+"dataset","d2a3f6a1-10d3-4210-afb1-2c4845afdc2f","Sub Health and Social Care Partnership Areas","Scottish Health and Social Care Open Data",83
+"dataset","a2b1a9d1-6e75-48b4-b4eb-038519870f53","Learning Disability Inpatient Activity","Scottish Health and Social Care Open Data",80
+"dataset","78d41fa9-1a62-4f7b-9edb-3e8522a93378","Scottish Index of Multiple Deprivation (Population Weighted)","Scottish Health and Social Care Open Data",80
+"dataset","15355535-6182-488a-879a-f9f612573173","COVID-19 Wider Impacts - Termination of Pregnancy","Scottish Health and Social Care Open Data",83
+"dataset","43e244a6-35cb-4841-a622-34b6436ba743","COVID-19 Wider Impacts - Scottish Ambulance Services","Scottish Health and Social Care Open Data",83
+"dataset","b5dded6d-bb16-41ed-904f-0e3cf7356935","COVID-19 Wider Impacts - Out of Hours Cases","Scottish Health and Social Care Open Data",83
+"dataset","716b6a6f-1538-4e04-b058-42af9f1c4f44","COVID-19 Wider Impacts - Method of Delivery","Scottish Health and Social Care Open Data",83
+"dataset","e4317e5c-5e51-4714-8c7b-3d90399c47d3","COVID-19 Wider Impacts - Induction of Labour","Scottish Health and Social Care Open Data",83
+"dataset","578ff074-93f6-4127-a872-0ab97f9d5587","COVID-19 Wider Impacts - Hospital Admissions","Scottish Health and Social Care Open Data",80
+"dataset","998bcfd5-f985-407c-9a71-dea23aaff16e","COVID-19 Wider Impacts - Gestation at Delivery","Scottish Health and Social Care Open Data",83
+"dataset","cceee8eb-6323-4955-acf5-58eb2189f9e1","COVID-19 Wider Impacts - Emergency Department Activity","Scottish Health and Social Care Open Data",83
+"dataset","5a9ecd07-fcd0-433c-94be-771eb4e0a691","COVID-19 Wider Impacts - Excess Deaths","Scottish Health and Social Care Open Data",80
+"dataset","bd2f60a2-6008-49fa-b8ce-de5802dc9355","COVID-19 Wider Impacts - Contacts with NHS 24","Scottish Health and Social Care Open Data",83
+"dataset","b501f1cb-ff4b-48c0-9099-cd59dc02a36b","COVID-19 Wider Impacts - Cardiovascular Activity","Scottish Health and Social Care Open Data",83
+"dataset","5314dde5-3e7a-451c-b4e9-0afe96d27ac0","COVID-19 Wider Impacts - Antenatal Bookings","Scottish Health and Social Care Open Data",83
+"dataset","6166b68d-54aa-41c6-9da7-5d80055aace8","ARCHIVED - Scottish Drug Misuse Database","Scottish Health and Social Care Open Data",83
+"dataset","d67b13ef-73a4-482d-b5df-d39d777540fd","Hospital Onset COVID-19 Cases in Scotland","Scottish Health and Social Care Open Data",83
+"dataset","6dbdd466-45e3-4348-9ee3-1eac72b5a592","ARCHIVED – COVID-19 Vaccination in Scotland up to September 2022","Scottish Health and Social Care Open Data",83
+"dataset","524b42b4-5c4e-4492-ba32-39dc43116710","ARCHIVED - Weekly COVID-19 Statistical Data in Scotland","Scottish Health and Social Care Open Data",83
+"dataset","31597116-4a57-4c6c-a250-3ae8baa36864","ARCHIVED - Drug and Alcohol Treatment Waiting Times","Scottish Health and Social Care Open Data",83
+"dataset","8276a06b-af53-47cb-9588-a28aad393220","The Scottish Public Health Observatory - Suicide Overview","Scottish Health and Social Care Open Data",83
+"dataset","3c5231ee-dfba-451f-a21f-e17839e32f83","Enhanced Surveillance of COVID-19 in Scotland","Scottish Health and Social Care Open Data",80
+"dataset","6158eec0-90b6-43db-8903-901ad2fb1a02","COVID-19 Education Surveillance","Scottish Health and Social Care Open Data",83
+"dataset","2b6f00ec-fee3-4828-9303-89f31b436d2a","Statistical Qualifiers","Scottish Health and Social Care Open Data",80
+"dataset","43a86f56-171a-42cd-bf5a-19b1070a3485","COVID-19 Vaccinations in Pregnancy in Scotland","Scottish Health and Social Care Open Data",83
+"dataset","9251a154-84b2-498d-b59c-646cab588e9f","COVID-19 Infections in Pregnancy in Scotland","Scottish Health and Social Care Open Data",80
+"dataset","4dd86111-7326-48c4-8763-8cc4aa190c3e","Standard Populations","Scottish Health and Social Care Open Data",80
+"dataset","65402d20-f0f1-4cee-a4f9-a960ca560444","Non Standard Geography Codes and Labels","Scottish Health and Social Care Open Data",77
+"dataset","61877c44-de42-4c93-b7e2-276146e12701","Nursing and Midwifery Vacancies","Scottish Health and Social Care Open Data",83
+"dataset","5d835423-ebea-436a-b1d0-b5d7257b5adf","Consultant Vacancies","Scottish Health and Social Care Open Data",80
+"dataset","cffe7aa2-d065-4933-8448-ae40881615d4","Allied Health Professional Vacancies","Scottish Health and Social Care Open Data",83

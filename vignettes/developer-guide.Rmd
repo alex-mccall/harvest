@@ -1,0 +1,61 @@
+---
+title: "Developer Guide"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Developer Guide}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+## Overview
+
+This package provides a connector-based harvesting framework for Scottish
+public sector metadata discovery. It is designed around four steps:
+
+1. Discover catalogue records.
+2. Retrieve full metadata.
+3. Normalise records into a canonical schema.
+4. Validate, score, store, and search the result set.
+
+## Configuration
+
+The bundled example registry lives in `inst/config/catalogues.yml`.
+
+```r
+library(harvest)
+
+registry <- catalogue_registry()
+connectors <- create_connectors(registry)
+```
+
+## Harvesting
+
+```r
+result <- harvest_catalogues(
+  connectors,
+  output_duckdb = "data/metadata.duckdb",
+  output_parquet = "data/metadata.parquet",
+  quality_report_dir = "reports/quality"
+)
+```
+
+## Search
+
+```r
+search_catalogue(result$metadata, "health")
+search_by_theme(result$metadata, "transport")
+search_by_organisation(result$metadata, "NatureScot")
+```
+
+## Extending with a new connector
+
+Create a constructor that returns `new_connector()` and implement the four S3
+methods:
+
+- `discover()`
+- `get_metadata()`
+- `normalise()`
+- `validate()`
+
+The canonical output should match `canonical_metadata_template()`.
+

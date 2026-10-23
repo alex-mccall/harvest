@@ -1,0 +1,44 @@
+Package: harvest
+Type: Package
+Title: Scottish Metadata Harvesting Platform
+Version: 0.1.0
+Authors@R: c(
+    person(
+      given = "OpenAI",
+      role = c("aut", "cre"),
+      email = "support@openai.com"
+    )
+  )
+Description: Production-oriented metadata harvesting, normalisation, scoring,
+    storage, and search for Scottish public sector discovery catalogues.
+License: MIT
+Encoding: UTF-8
+LazyData: false
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Config/testthat/edition: 3
+Imports:
+    DBI,
+    dplyr,
+    digest,
+    httr2,
+    jsonlite,
+    purrr,
+    rlang,
+    stringr,
+    tibble,
+    tidyr,
+    xml2,
+    yaml
+Suggests:
+    arrow,
+    duckdb,
+    furrr,
+    future,
+    logger,
+    knitr,
+    quarto,
+    rmarkdown,
+    shiny,
+    testthat (>= 3.0.0),
+    withr
